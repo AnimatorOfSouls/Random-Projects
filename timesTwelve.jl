@@ -1,23 +1,10 @@
-module timesNum
-export timesFive,timesTwelve
-
 """
+Calculating the input number times four
 
-Calculating the input number times five
+  timesFour(times_by::integer)
 
-  timesFive(times_by::integer)
-Return 'times_by*5'
+Return 'times_by*4'
 """
-
-timesFive(times_by::integer) = times_by*5
-
-"""
-Calculating the input number times twelve
- 
-  timesTwelve(times_by::integer)
-Return 'times_by*12'
-"""
-
-timesTwelve(times_by::integer) = times_by*12
-
+function timesFour(times_by::Integer)
+    times_by*4
 end
