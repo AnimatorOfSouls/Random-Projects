@@ -7,7 +7,8 @@ These are all under the MIT license.
 ## Contents:
 ### Python:
 - void_runner.py - run using the raspberry jam mod in minecraft to create a tnt-run-esque game.
-- Homeric Death Generator.py - generates a story about the death of a character based off of some weird epithet thing.
+- Homeric Death Generator.py - generates a story about the death of a character based off of some weird epithet thing. Made by a friend.
+- Inferium Calculator.py - for use with mystical agriculture minecraft mod. Displays prices for different tiers of seeds and calculates inferium based on number of different essences used.
 
 
 
